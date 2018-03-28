@@ -16,5 +16,10 @@ namespace Pesquisa_com_Watson
         {
             InitializeComponent();
         }
+
+        private void btnPesquisar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
