@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pesquisa_com_Watson.Classes
 {
-    class clsWatson 
+    class Watson 
     {
     }
 }
